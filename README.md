@@ -11,3 +11,17 @@ Las funciones ayudan a modularizar el código, haciendo que el análisis sea má
 Las listas son esenciales para manipular grandes conjuntos de datos. En Alura Store, trabajarás con tablas que almacenan productos, precios, valoraciones y mucho más. Además, los bucles (for) se utilizan para recorrer y procesar estos datos de forma optimizada.
 Dominar estos conceptos es esencial para convertirse en un analista de datos eficiente. El desafío Alura Store te permitirá aplicar estos conocimientos de manera práctica, analizando información y generando insights para la toma de decisiones.
 
+README
+El README es esencial para documentar tu proyecto, explicando su propósito, funcionalidades e instrucciones de uso.
+
+Como desafío adicional, crea un README.md para tu proyecto Alura Store, incluyendo:
+
+El propósito del análisis realizado.
+
+La estructura del proyecto y organización de los archivos.
+
+Ejemplos de gráficos e insights obtenidos.
+
+Instrucciones para ejecutar el notebook.
+
+Esto hará que tu proyecto sea más profesional y accesible para cualquier persona que quiera entender tus análisis.
