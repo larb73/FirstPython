@@ -6,14 +6,11 @@
 # Tabla de Contenido:
 - [Descripción del proyecto](#Descripción-del-proyecto)
 - [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
-* [Acceso al proyecto](#Acceso-proyecto)
-* [Tecnologías utilizadas](#Tecnologías-utilizadas)
-* [Personas Contribuyentes](#personas-contribuyentes)
-* [Desarrollador del Proyecto](#Desarrollador)
-* [Conclusión](#Conclusión)
+- [Tecnologías utilizadas](#Tecnologías-utilizadas)
+
 
 # Descripción del proyecto:
-  # FirstPython 1er Challenge ALURA LATAM/Data Science
+  # FirstPython Challenge ALURA LATAM/Data Science
 Desafío Alura Store:
 El desarrollo y analisis de datos en este proyecto pondrán en práctica conceptos iniciales con Python, utilizando bibliotecas nativas para la manipulación/extracción de archivos y la visualización de datos.
 
@@ -40,4 +37,9 @@ Al analizar datos de cada tienda, se evaluó información como los ingresos, las
 Se crearon gráficos para visualización, gráficos de barras y circulares.
 ![image](https://github.com/user-attachments/assets/0d58abe2-f6c9-480d-b4b2-e6862fd5e164)
 ![image](https://github.com/user-attachments/assets/c7e77838-30ab-4389-b456-861f7c7675f6)
+
+# Tecnologías utilizadas:
+![logocolab](https://github.com/user-attachments/assets/6c4a5957-4680-49c9-b922-91bb1befd573)
+![logopython](https://github.com/user-attachments/assets/4ce4ff17-cc8a-4f4b-9cdf-1e640831b831)
+![github](https://github.com/user-attachments/assets/0852fa3a-4715-41bd-a9d2-05409505dbed)
 
